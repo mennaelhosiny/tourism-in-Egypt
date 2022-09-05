@@ -1,0 +1,169 @@
+img{
+    height: 400px;
+    width: 400px;
+    vertical-align: middle;
+    float: left;
+    padding: 32px;
+}
+body{
+    /* background-image: url("77.jpg"); */
+    /* background-color: rgba(0, 0, 0, 0.733)  ; */
+   /* opacity: 0.5;*/
+    background-size: cover;
+    padding: 10px;
+    margin:10px;
+}
+body.dark-mode{
+    background-color: black;
+    color: #fff;
+}
+.dark button{
+    padding: 10px;
+    border-radius: 20px;
+    border: 0;
+    color: #fff;
+    background: #000;
+    position: fixed;
+}
+ol li{
+    border-radius: 25px;
+    /* border:3px solid #fff ; */
+    /* color: #fff; */
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-style: bold;
+}
+ol.list{
+    border-radius: 25px;
+    border:3px solid rgb(238, 238, 238) ;
+    color: rgb(3, 3, 3);
+    font-size: 20px;
+    display: inline-block;
+}
+.list li{
+    padding: 10PX;
+    /* list-style: none; */
+}
+table td{
+    padding:15px;
+    border: 5px solid #000;
+    width:730px;
+ }
+ table thead td{
+     background:rgb(196, 4, 4);
+     color:#fff;
+     font-weight:bold;
+     text-align :center;
+     width:730px;
+     font-size:20px;
+     column-span:first-line;
+     font-size: 25px;
+ }
+ tbody td{
+     text-align: center;
+     color: black;
+     font-size: 20px;
+
+ }
+ div{
+     /* background-color:black; */
+     margin: 10px;
+     overflow: hidden;
+ }
+ h1{
+     background-color: rgb(190, 117, 178);
+     padding: 20px;
+     text-align: center;
+ }
+ p{
+     font-size: x-large;
+     /* color: #000; */
+    width: 80%;
+}
+ .mon{
+     width: 720;
+ }
+ a:hover{
+     color: red;
+     background-color: rgb(169, 247, 243);
+ }
+
+ .clear{
+     clear: both;
+}
+video{
+    width: 100%;
+}
+.socials{
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+  margin:(50,0);
+    text-align: center;
+    cursor: pointer;
+}
+   
+
+.socials1{
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+
+.socials2{
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+   
+    text-align: center;
+    cursor: pointer;
+   
+}
+
+.socials3{
+    width: 30px;
+    height: 30px;
+    max-width: 30px;
+    max-height: 30px;
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+  
+ 
+  
+}
+
+.menna{
+    text-align: center;
+     width: 385px;
+     margin-right: 1em;
+     background-color: #fff;
+   
+ }
+.mon{
+    background-color: rgba(255, 255, 255, 0.692);
+    width: 400px;
+    height: 517px;
+    margin: 480;
+    margin-top: 50;
+    margin-bottom: 50;
+}
+
